@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.datacontainer {
+     display: grid;
+     grid-template-columns: repeat(3, 1fr);
+}
+
+.card {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+    color: chocolate;
+}
+
+h2{
+    color: red;
+    text-transform: uppercase;
+}
+
+h3{
+    color: green;
+}
