@@ -15,11 +15,11 @@ To get started with this project, follow these steps:
 
     Clone the repository:
 
-git clone
+git clone https://github.com/ManashSwain/Axios.git
 
 Navigate into the project directory:
 
-cd
+cd Axios
 
 Install the dependencies:
 
@@ -29,7 +29,7 @@ Usage
 
 To run the project, use the following command:
 
-npm start
+npm  run start (for vite)
 
 This will start the development server and open the project in your default browser. The default port is usually http://localhost:3000.
 
